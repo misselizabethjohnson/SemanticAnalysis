@@ -27,3 +27,5 @@ sort of similarity map where you can see which books are most alike.
 
 The script times itself and reports total computing time. 
 Additional functionality welcomed. 
+
+*** More information in the PDF (this was a stats/data analysis homework assignment) 
